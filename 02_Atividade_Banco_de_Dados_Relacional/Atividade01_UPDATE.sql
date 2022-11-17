@@ -1,0 +1,1 @@
+UPDATE tb_colaboradores SET salario = 6000 WHERE id = 2;
